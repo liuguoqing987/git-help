@@ -59,7 +59,7 @@
 - clone 项目。
 
     ```shell
-    git clone git@*.git
+    git clone git@gitlab...git
     ```
 
 - 将工作区文件添加到暂存区。
