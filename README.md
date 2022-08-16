@@ -59,7 +59,7 @@
 - clone 项目。
 
     ```shell
-    git clone git@gitlab.maiscrm.com:evan.liu/training.git
+    git clone git@*.git
     ```
 
 - 将工作区文件添加到暂存区。
