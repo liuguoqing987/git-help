@@ -94,3 +94,5 @@
 - 解决冲突。
 
     当合并代码是发生冲突是很常见的问题，首先不要慌，可以使用 `git status` 查看哪些文件是冲突的，解决提交即可，补充 `git log --graph` 可以查看分支合并图。
+    
+- [git rebase](https://blog.csdn.net/gg1229505432/article/details/121958413)
